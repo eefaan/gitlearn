@@ -1,4 +1,5 @@
-insert from master.
+insert from new dev.
 test for learning.
 test file 1.
 insert from dev*2.
+insert from new dev.
