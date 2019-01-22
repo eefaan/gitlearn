@@ -1,3 +1,4 @@
+insert from master.
 test for learning.
 test file 1.
 
